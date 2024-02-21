@@ -1,8 +1,8 @@
-<h1> Linux FireWall Config - IP Tables</h1>
+<h1> 🔥 Linux FireWall Config - IP Tables</h1>
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This projects explains the process in which network packet traffic is managed and configured. IP Tables is broken down into three essential tables. The Filter Table, the Nat Table, and the Mangle Table. The Filter Table, which is responsible for filtering incoming and outgoing traffic, can be further broken down into three chains which are the input, the output and the forward chain. The Filter Table will be the main focus of this project because it deals with Firewall configuration. The chains within the filter table are each responsible for processing packets based on their type. The input chain processes packets that are being sent to the target server. The output chain processes packets that are leaving the server. The forward chain processes packets that are being forwarded from on host to another host using your computer as an intermidiary. The FireWall rules either accept, reject, or drop a packet. Accept means the service or packet can arrive its destination. Reject means it is blocked from arriving at its target destination and the server administrator is notified of this. Drop means that the connection is simply dropped like it never happend and no one will be notified. Any output also must have specifications. You can block a connection fromm happening if its does not use a specified protocol like ssh or https.
 <br />
 
 
