@@ -30,8 +30,8 @@ In order to delete a rule, you must first use the line-numbers command to assign
 <img src="https://i.imgur.com/rUH2G8c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure rule to reject any incoming connection via SSH to port 22 of the target:  <br/>
+<img src="https://i.imgur.com/zXlICND.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
