@@ -18,12 +18,12 @@ This projects explains the process in which network packet traffic is managed an
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch default filter table that have default polocies: <br/>
+Launch default filter table that have default policies: <br/>
 <img src="https://i.imgur.com/m9Qa3k7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set the rule to reject all connections from ip address 10.0.0.1 to the target :  <br/>
+<img src="https://i.imgur.com/SnQhgZO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
