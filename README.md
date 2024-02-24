@@ -26,8 +26,8 @@ Set the rule to reject all connections from ip address 10.0.0.1 to the target : 
 <img src="https://i.imgur.com/SnQhgZO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+In order to delete a rule, you must first use the line-numbers command to assign numbers to the rules. To delete them, simply use the -D command and specify the chain and line number: <br/>
+<img src="https://i.imgur.com/rUH2G8c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
