@@ -18,8 +18,8 @@ This projects explains the process in which network packet traffic is managed an
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch default filter table: <br/>
+<img src="https://i.imgur.com/m9Qa3k7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
