@@ -34,8 +34,8 @@ Configure rule to reject any incoming connection via SSH to port 22 of the targe
 <img src="https://i.imgur.com/zXlICND.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure rule to reject any outgoing connections to any ip address that services HTTPS:  <br/>
+<img src="https://i.imgur.com/r1bJ4ji.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
