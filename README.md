@@ -18,7 +18,7 @@ This projects explains the process in which network packet traffic is managed an
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch default filter table: <br/>
+Launch default filter table that have default polocies: <br/>
 <img src="https://i.imgur.com/m9Qa3k7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
