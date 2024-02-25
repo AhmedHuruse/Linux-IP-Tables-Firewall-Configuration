@@ -1,4 +1,4 @@
-<h1> 🔥 Linux FireWall Config - IP Tables/Filter Table</h1>
+<h1> 🔥🧱 Linux FireWall Config - IP Tables/Filter Table</h1>
 
 
 <h2>Description</h2>
